@@ -13,9 +13,9 @@ A brief description of what this project does and who it's for
 
 ---
 
-## Soal 1 
+## Soal 1
 
-![Jawab No 1](public/Soal_1)
+![Jawab No 1](public/Soal_1.png)
 
 ---
 
