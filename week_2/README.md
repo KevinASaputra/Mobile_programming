@@ -1,15 +1,21 @@
 A sample command-line application with an entrypoint in `bin/`, library code
 in `lib/`, and example unit test in `test/`.
 
-# Project Title
+# Week 1
 
 A brief description of what this project does and who it's for
 
 # Jawaban Tugas — Flutter & Dart
 
-> **Nama:** Kevin Adika S
-> **Mata Kuliah:** Mobile Programming Dart And Flutter
+> **Nama:** Kevin Adika S  
+> **Mata Kuliah:** Mobile Programming Dart And Flutter  
 > **Kelas/NRP:** TI-3G
+
+---
+
+## Soal 1 
+
+![Jawab No 1](public/Soal_1)
 
 ---
 
