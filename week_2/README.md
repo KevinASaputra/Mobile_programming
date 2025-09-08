@@ -15,6 +15,16 @@ A brief description of what this project does and who it's for
 
 ## Soal 1
 
+```dart
+void main() {
+  for (int i = 18; i >= 9; i--) {
+    print('Nama saya adalah Kevin, sekarang berumur $i');
+  }
+}
+
+
+```
+
 ![Jawab No 1](public/Soal_1.png)
 
 ---
