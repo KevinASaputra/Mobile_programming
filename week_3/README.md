@@ -48,4 +48,31 @@ NIM : 2341720017
 Bilangan prima: 7
 Nama: Kevin Adika Saputra
 NIM : 2341720017
+
+NIM : 2341720017
+
+...
+
+Bilangan prima: 181
+Nama: Kevin Adika Saputra
+NIM : 2341720017
+
+Bilangan prima: 191
+Nama: Kevin Adika Saputra
+NIM : 2341720017
+
+Bilangan prima: 193
+Nama: Kevin Adika Saputra
+NIM : 2341720017
+
+Bilangan prima: 197
+Nama: Kevin Adika Saputra
+NIM : 2341720017
+
+Bilangan prima: 199
+Nama: Kevin Adika Saputra
+NIM : 2341720017
+
+
+Exited.
 ```
